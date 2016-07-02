@@ -1,10 +1,5 @@
 body {
   background-color: #E55D87;
-  /* fallback for old browsers */
-  background-color: -webkit-linear-gradient(to left, #e55d87, #5fc3e4);
-  /* Chrome 10-25, Safari 5.1-6 */
-  background-color: linear-gradient(to left, #e55d87, #5fc3e4);
-  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   font-size: 30px;
   font-family: 'Oxygen', sans-serif;
   font-weight: 100;
